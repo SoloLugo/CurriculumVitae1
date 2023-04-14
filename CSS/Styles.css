@@ -1,0 +1,13 @@
+*{
+	border: 1px dotted black;
+}
+body{
+	margin:0 auto;
+	max-width: 1000px;
+	font-family: "Helvetica","Arial","sans-serif;";
+	line-height: 1.5;
+	padding: 10px 20px;
+	border: 5px solid black;
+	color: #555;
+}
+
