@@ -60,3 +60,34 @@ article.Habilidades li{
 article.Contacto li, article.Educacion li{
 	color: #FFFFFF;
 }
+header{
+	background-color: #FFA826;
+}
+
+header h1, header h2{
+	color:#4D4D4F;
+}
+
+header h1{
+	font-size: xx-large;
+	font-weight: 700;
+}
+
+header h2{
+	font-size: x-large;
+}
+
+section.JorgeLugo2{
+	display: inline-block;
+	width: 600px;
+}
+
+section.JorgeLugo{
+	display: inline-block;
+	width: 300px;
+}
+
+header img{
+	border: 5px solid white;
+	border-radius: 50%;
+}
