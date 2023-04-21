@@ -12,6 +12,7 @@ body{
 	background-color: #ffffff;
 }
 
+<<<<<<< HEAD
 main{
 	background-color: #273949;
 	display: inline-block;
@@ -41,3 +42,24 @@ main hr{
 main p, main li{
 	color: #ffffff;
 }
+=======
+aside{
+	background-color: #062744;
+	display: inline-block;
+	width: 300px;
+}
+aside h3{
+	color: #FFA826;
+}
+aside h4, aside p, aside a{
+	color: #FFFFFF;
+}
+
+article.Habilidades li{
+	color: #0CC0DF;
+}
+
+article.Contacto li, article.Educacion li{
+	color: #FFFFFF;
+}
+>>>>>>> aside
