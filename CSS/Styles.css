@@ -18,6 +18,14 @@ aside{
 aside h3{
 	color: #FFA826;
 }
-aside h4, aside p, aside li, aside a{
+aside h4, aside p, aside a{
+	color: #FFFFFF;
+}
+
+article.Habilidades li{
+	color: #0CC0DF;
+}
+
+article.Contacto li, article.Educacion li{
 	color: #FFFFFF;
 }
