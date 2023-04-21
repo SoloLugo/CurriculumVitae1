@@ -13,8 +13,6 @@ body{
 
 header{
 	background-color: #FFA826;
-	display: flex;
-	align-items: center;
 }
 
 header h1, header h2{
@@ -31,8 +29,13 @@ header h2{
 }
 
 section.JorgeLugo2{
-	padding-left: 100px;
-	display: block
+	display: inline-block;
+	width: 600px;
+}
+
+section.JorgeLugo{
+	display: inline-block;
+	width: 300px;
 }
 
 header img{
