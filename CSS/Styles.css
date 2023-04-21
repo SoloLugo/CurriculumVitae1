@@ -13,7 +13,8 @@ body{
 
 aside{
 	background-color: #062744;
-	float:left
+	display: inline-block;
+	width: 300px;
 }
 aside h3{
 	color: #FFA826;
