@@ -11,3 +11,31 @@ body{
 	color: #555;
 }
 
+header{
+	background-color: #FFA826;
+	display: flex;
+	align-items: center;
+}
+
+header h1, header h2{
+	color:#4D4D4F;
+}
+
+header h1{
+	font-size: xx-large;
+	font-weight: 700;
+}
+
+header h2{
+	font-size: x-large;
+}
+
+section.JorgeLugo2{
+	padding-left: 100px;
+	display: block
+}
+
+header img{
+	border: 5px solid white;
+	border-radius: 50%;
+}
