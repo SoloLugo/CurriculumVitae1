@@ -13,8 +13,9 @@ body{
 }
 
 main{
-	float:left;
 	background-color: #273949;
+	display: inline-block;
+	width: 650px;
 }
 
 main h3{
