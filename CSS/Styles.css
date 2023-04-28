@@ -25,7 +25,7 @@ main h4{
 }
 
 main h3{
-	color: #FFA826;
+	color: #26f4ff;
 	border-radius: 15%;
 	border: 3px solid white;
 	display: inline-block;
@@ -74,7 +74,7 @@ aside{
 	padding-right: 5px;
 }
 aside h3{
-	color: #FFA826;
+	color: #26f4ff;
 }
 aside h4, aside p, aside a{
 	color: #FFFFFF;
@@ -88,7 +88,7 @@ article.Contacto li, article.Educacion li{
 	color: #FFFFFF;
 }
 header{
-	background-color: #FFA826;
+	background-color: #26f4ff;
 	margin: 0px;
 }
 
